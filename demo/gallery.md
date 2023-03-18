@@ -38,6 +38,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Gartside Family Tree](https://gartside.net/webtrees) ||webtrees|2.1.16|us|
 | [Genealogia da Família Chiele](https://www.chiele.net) ||webtrees|2.1.6|it|
 | [Genealogia Galliae Belgica](https://www.ghezibde.net/genealogie) ||Xenea|2.1.16|be|
+| [Généalogie des de Champlain](https://dechamplain.net) ||Argon|2.1.16|ca-fr|
 | [Genealogy Zeitz family, Saarland](https://www.zeitzfamily.org/webtrees_2012) ||webtrees|2.1.7|de|
 | [Greg Roach’s Genealogy](https://fisharebest.webtrees.net) |Greg is the author of webtrees|webtrees|2.1.16|en|
 | [Généalogie Dolman](https://www.dolman.fr) ||Dolman (Custom)|2.1.16|fr, en|
